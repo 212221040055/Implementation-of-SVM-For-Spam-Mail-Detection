@@ -19,8 +19,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 
 Program to implement the SVM For Spam Mail Detection..
-Developed by: KARTHIKEYAN R
-RegisterNumber:  212222240046
+Developed by: N.Hemavathi
+RegisterNumber:  212221040055
 
 
 import chardet
